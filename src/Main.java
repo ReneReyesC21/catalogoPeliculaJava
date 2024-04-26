@@ -7,7 +7,7 @@ public class Main {
         int fechaDeLanzamiento = 1999;
         boolean incluidoEnPlan = true;
         double notaPelicula = 8.2;
-        double media = 8.2 + 6.0 + 9.0/3;
+        double media = (8.2 + 6.0 + 9.0)/3;
         System.out.println(media);
     }
 }
